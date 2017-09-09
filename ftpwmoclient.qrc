@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/FTPWMOClient">
+    <file>Resources/error.png</file>
+    <file>Resources/info.png</file>
+  </qresource>
+</RCC>
